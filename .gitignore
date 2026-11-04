@@ -1,0 +1,13 @@
+# Build artifacts
+mygit
+*.o
+*.out
+*.exe
+obj/
+bin/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
